@@ -9,4 +9,6 @@ Now I'm in college at Georgia Institution of Technology right now, and I hope to
 
 I enjoy making website in my free times using Vite React and Express, I also enjoy working with other programmers as it let me know what I'm still lacking and what I am already good at
 
+I love to play soccer, and I also love gaming
+
 I'm quite passionate about this dream and I will always pursue this.
